@@ -10,7 +10,7 @@ I'm Raian!
 <img witdh="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs">
 <img witdh="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java">
 <img witdh="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python">
-<img witdh="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" alt="rust">
+<img witdh="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-line.svg" alt="rust">
 ✏️
 <img witdh="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript">
 <img witdh="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5">
